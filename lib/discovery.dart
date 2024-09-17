@@ -147,7 +147,10 @@ class _DiscoveryState extends State<Discovery> {
 
                     Image(image: AssetImage("assets/images/Card (2).png"))
 
-                      
+
+
+
+
                       
                     ],
                     
